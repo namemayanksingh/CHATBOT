@@ -1,2 +1,2 @@
-# CHATBOT
-its a chatbot!!!
+# python code for Chat-bot
+bot
